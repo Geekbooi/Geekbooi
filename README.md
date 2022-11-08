@@ -5,7 +5,6 @@
 I am a passionate and hard working full stack software developer. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are JavaScript and Python, but coding itself is pretty fun for me.
 
 class YosephM:
-
     def __init__(self):
         self.username = 'geekbooi'
         self.name = 'Yoseph Mekonnen'
@@ -18,10 +17,9 @@ class YosephM:
             'tools': ['GIT', 'GitHub', 'VScode', 'Linux OS', 'Jupyter notebook']
         }
         self.ongoing = ['C#', 'Julia']
-
-    def __str__(self):
+        
+     def __str__(self):
         return self.name
-
 
 if __name__ == '__main__':
     me = YosephM()
