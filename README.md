@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/99346437/200465143-d0678ca6-08e1-4918-97cc-b30589323088.png)
 
+                     Hi,👋 I'm Ermias Bahru
    ![image](https://user-images.githubusercontent.com/99346437/200468719-6c7b7fae-193f-4f6c-83bc-309c020261f5.png)
 
 I am a passionate and hard working full stack software developer. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are JavaScript and Python, but coding itself is pretty fun for me.
@@ -28,3 +29,4 @@ if __name__ == '__main__':
     
    ![image](https://user-images.githubusercontent.com/99346437/200469943-66c17ad8-f607-4b47-a09b-68ec21f98abd.png)
 
+ 
