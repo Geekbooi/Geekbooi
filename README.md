@@ -1,7 +1,9 @@
 ![image](https://user-images.githubusercontent.com/99346437/200465143-d0678ca6-08e1-4918-97cc-b30589323088.png)
 
-                     Hi,👋 I'm Yoseph Mekonnen
-   ![image](https://user-images.githubusercontent.com/99346437/200468719-6c7b7fae-193f-4f6c-83bc-309c020261f5.png)
+<h1 align="center">Hi , I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> Yoseph Mekonnen
+<p align="center">
+  <a href=https://github.com/Geekbooi"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 I am a passionate and hard working full stack software developer. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are JavaScript and Python, but coding itself is pretty fun for me.
 
