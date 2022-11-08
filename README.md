@@ -4,7 +4,7 @@
 
 I am a passionate and hard working full stack software developer. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are JavaScript and Python, but coding itself is pretty fun for me.
 
-class Yoseph_M:
+class YosephM:
 
     def __init__(self):
         self.username = 'geekbooi'
@@ -24,4 +24,4 @@ class Yoseph_M:
 
 
 if __name__ == '__main__':
-    me = Yoseph_M()
+    me = YosephM()
