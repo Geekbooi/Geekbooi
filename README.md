@@ -25,3 +25,6 @@ class YosephM:
 
 if __name__ == '__main__':
     me = YosephM()
+    
+   ![image](https://user-images.githubusercontent.com/99346437/200469943-66c17ad8-f607-4b47-a09b-68ec21f98abd.png)
+
