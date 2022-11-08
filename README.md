@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Geekbooi" target="blank">
 Yoseph Mekonnen</a></h1>
 <p align="center">
-  <a href=https://github.com/Geekbooi"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href=https://github.com/Geekbooi"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;full+stack+software+developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 I am a passionate and hard working full stack software developer. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are Java, JavaScript and Python, but coding itself is pretty fun for me.
